@@ -1,0 +1,32 @@
+/*
+button:nth-child(2n + 1) {
+  background-color: #1162ac;
+}
+button:nth-child(2n + 2) {
+  background-color: orangered;
+}
+button {
+  padding: 59x;
+  width: 70px;
+  height: 25px;
+  cursor: pointer;
+  border-radius: 10px;
+  border: #1162ac;
+  color: white;
+}
+button:hover {
+  cursor: pointer;
+}*/
+#imagen {
+  margin-top: 30px;
+}
+button {
+  padding: 59x;
+  width: 70px;
+  height: 25px;
+  cursor: pointer;
+  border-radius: 10px;
+  border: #1162ac;
+  color: white;
+  background-color: #1162ac;
+}
